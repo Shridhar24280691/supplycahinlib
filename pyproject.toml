@@ -4,10 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "supplychainlib"
-version = "0.1.0"
-description = "A private Python library for AWS service integrations in the Supply Chain project"
-readme = "README.md"
-requires-python = ">=3.8"
+version = "0.0.1"
 authors = [
     {name = "Shridhar Malaghan", email = "x24280691@student.ncirl.ie"}
 ]
@@ -21,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/Shridhar24280691/supplycahinlib"
+"Bug Tracker" = "https://github.com/Shridhar24280691/supplycahinlib/issues"
